@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @413x1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Muhammad Sholeh, my friends usually they call me alex
+- 👀 I’m interested in Backend Development (I'm still noob 🥺)
+- 🌱 I’m currently learning **Python, Django**
+- 💞️ I’m looking to collaborate on **Django Project**
+- 📫 U can reach me at [muhammad.sholeh@sirclo.com]
 
 <!---
 413x1/413x1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
