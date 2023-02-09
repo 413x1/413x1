@@ -31,5 +31,5 @@ I am a Software Engineer with over 2 years of experience, specifically in backen
 ![Google Cloud](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=Google%20Cloud&logoColor=4285F4)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=2496ED)
 
---
+---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=413x1&theme=github_dark&show_icons=true&count_private=true)
